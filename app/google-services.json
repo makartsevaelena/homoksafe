@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "213158438322",
+    "firebase_url": "https://homok-safe-5a2ff.firebaseio.com",
+    "project_id": "homok-safe-5a2ff",
+    "storage_bucket": "homok-safe-5a2ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213158438322:android:56fa3605f28af133",
+        "android_client_info": {
+          "package_name": "com.slonigiraf.homoksafe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213158438322-jtk1eimu1q2i35k4egg8t5be8r1ij7a5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.slonigiraf.homoksafe",
+            "certificate_hash": "61c0c7882fd8c3cbc4f8fd8dd5d2fa972adf2b6a"
+          }
+        },
+        {
+          "client_id": "213158438322-5rjcjghqjohsjvvo692b4akvas78m15d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6aiLUFFjQfWKSQWdrvd7Ve1rwRQV_Bs8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213158438322-5rjcjghqjohsjvvo692b4akvas78m15d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

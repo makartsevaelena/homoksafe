@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_title_name">Homok Safe</string>
+
+    <string name="mainAddRoomButton">+ ROOM</string>
+    <string name="mainAddOperationButton">+ ITEM</string>
+    <string name="mainDonateButton">Donate to developer</string>
+
+    <string name="deleteDialog_title_delete">Delete</string>
+    <string name="deleteDialog_title_deleteRoom">Delete room</string>
+    <string name="deleteDialog_button_delete">OK</string>
+    <string name="deleteDialog_button_cancel">Cancel</string>
+    <string name="deleteDialog_textMessage">Are you sure to delete</string>
+    <string name="deleteDialogRoom_textMessage">Room and all items will be deleted. Are you sure to delete</string>
+
+    <string name="renameDialog_title_rename">Rename</string>
+    <string name="renameDialog_button_cancel">Cancel</string>
+    <string name="renameDialog_button_ok">OK</string>
+    <string name="renameDialog_textMessage">Enter a new name for</string>
+
+    <string name="addDialogNewOperation_title_addNewName">New item</string>
+    <string name="addDialogNewRoom_title_addNewNameRoom">New room</string>
+    <string name="addNewDialog_button_cancel">Cancel</string>
+    <string name="addNewDialog_button_save">Save</string>
+
+    <string name="refreshContentDialog_title_deleteContent">Remove dates and photos</string>
+    <string name="refreshContentDialog_button_cancel">Cancel</string>
+    <string name="refreshContentDialog_button_ok">OK</string>
+    <string name="refreshContentDialog_textMessage">Are you sure to delete all dates and photos in this room</string>
+
+    <string name="refreshPhotoDialog_title">Refresh photo</string>
+    <string name="refreshPhotoDialog_textMessage">Are you sure to refresh photo</string>
+    <string name="refreshPhotoDialog_button_cancel">Cancel</string>
+    <string name="refreshPhotoDialog_button_ok">OK</string>
+
+    <string name="menu_item_addNew">Add</string>
+    <string name="menu_item_refreshContent">Refresh content</string>
+    <string name="menu_item_refreshPhoto">Refresh photo</string>
+    <string name="menu_item_delete">Delete</string>
+    <string name="menu_item_deleteRoom">Delete room</string>
+    <string name="menu_item_rename">Rename</string>
+    <string name="menu_setting_info">Info</string>
+
+    <string name="widgetDetail_name">Name</string>
+
+    <string name="item_timePhoto" translatable="false">Time photo</string>
+    <string name="item_nameOperation">Name</string>
+    <string name="item_noName">No name</string>
+
+    <string name="item_Iron">Iron</string>
+    <string name="item_Light">Light</string>
+    <string name="item_TV">TV</string>
+    <string name="item_CookingRange">Cooking range</string>
+    <string name="room_home">Home</string>
+    <string name="preferences_information">By clicking Continue, you agree to our Terms of use and Privacy Policy.</string>
+    <string name="preferences_button_continue">Continue</string>
+    <string name="preferences_show_more">Show more</string>
+    <string name="preferences_show_less">Show less</string>
+    <string name="preferences_welcomeToHomok">Welcome to Homok Safe!</string>
+    <string name="preferences_termsUse_title">Terms of use and Privacy Policy</string>
+    <string name="preferences_termsUse_message">
+        TERMS OF USE\n1. GENERAL PROVISIONS \n1.1. This User Agreement (the "Agreement") governs the relationship between the developer of the Homok Safe application (hereinafter referred to as the "Developer") and the capable person who duly joins this Agreement (hereinafter referred to as the "User") for obtaining the right to use the Homok Safe application "(hereinafter referred to as the" Application "), on the conditions specified in the User Agreement. \n1.2. The Agreement enters into force for the User from the time of installation of the Application and is valid for an indefinite period. The developer has the right to make changes and / or additions to the Agreement. When amending the Agreement, the Developer publishes a new effective version of the Agreement, and the date of publication is the effective date of the new version of the Agreement. The User undertakes to independently monitor the relevance of the Agreement, the contents of which may be changed / supplemented. The risk of untimely familiarization of the User with the terms of the Agreement rests with the User. \n1.3. Continuation of the use of the Application after making changes and / or additions to the Agreement means the User's consent with such changes and / or additions. Issues not regulated by the Agreement shall be resolved in accordance with the legislation of the Russian Federation. \n1.4. If the User disagrees with the terms of the Agreement, the use of the Application must be immediately terminated. \n1.5. Appeals, proposals and claims of individuals and legal entities to the Developer related to the content, operation of the Application can be sent to e-mail: reshetondenis@gmail.com. \n2. RIGHTS AND OBLIGATIONS OF THE USER \n2.1. The User agrees to use the Application solely for personal, non-commercial use. \n2.2. The User undertakes not to spread false or confidential information about the Application or about the Developer. \n2.2. The User undertakes not to spread false or confidential information about the Application or about the Developer. \n2.3. The User agrees not to use third-party software and other technical means affecting the operation of the Application. \n2.4. The user is prohibited from independently or with the involvement of third parties to decompile the Application, and also disseminate, communicate to the public and provide other access to the Annex, reverse engineer the Application or its individual elements. \n2.5. The User undertakes to take appropriate measures to ensure the safety of his mobile device and is personally responsible for the safety of the personal data specified in the Appendix, in the case of access to his mobile device by third parties. \n2.6. In the event that the User violates the duties specified in Section 2 of the Agreement, the User undertakes to reimburse the Developer for the harm caused by such actions, namely direct and indirect losses incurred by the Developer. \n2.7. The User is entitled at any time, in unilateral extrajudicial procedure, to refuse to execute the Agreement by removing the Application from his mobile device. \n3. RIGHTS AND OBLIGATIONS OF THE DEVELOPER \n3.1. The developer has the right to monitor and correct the contents of the Application. \n3.2. In the event that the Developer finds an Unauthorized Use by the User of the Application, the Developer has the right at any time to limit or block the User's access to the Application without notifying the User. \n3.3. The developer has the right to terminate the Agreement at any time unilaterally, blocking the possibility of using the Application. \n4. LIMITATION OF LIABILITY \n4.1. The developer does not give any guarantees, in particular, regarding the working capacity of the Application, its functionality, information content, availability, reliability of operation and compliance with the needs and expectations of the User. \n4.2. The developer under no circumstances is not responsible for the operability of the user's mobile device. \n4.3. The developer shall not be liable for any damage or loss caused by the use of the Application. \n4.4. The developer shall not be liable for the negative consequences and losses incurred as a result of events and circumstances that are beyond his competence, as well as for actions (inaction) of third parties, including actions or inaction of the User. \n4.5. The developer shall not be liable to the User and shall not reimburse the User for losses incurred or that may arise in the User due to interruptions in the operation and inability to fully use the application. \n4.6.User uses the application at their own risk. \n4.7. The developer is not responsible for the safety of life, health, property of the User. \n5. FINAL PROVISIONS \n5.1. In the event of any disputes or disagreements arising in connection with the implementation of the Agreement, the User and the Developer will make every effort to resolve them by negotiating via e-mail. Applications, proposals and claims of individuals and legal entities to the Developer related to the content, operation of the Application can be sent to e-mail. \n5.2. In the event that disagreements are not resolved within 30 (thirty) days from the date of the filing of the claim in accordance with clause 5.1 of the Agreement, disputes shall be resolved in the appropriate competent court at the location of the Developer in the manner established by the current legislation of the Russian Federation.\n\nPRIVACY POLICY\nHomok Safe uses cookies, identifiers for mobile devices or similar technology that are used to collect data. This information consists of following: a time at which you open the application; which buttons you click inside the application; which link was used to find the application in Play Market. We use Firebase to accomplish that – see www.google.com/policies/privacy/partners. The collected data is depersonalized. To stop application from collecting data - simply uninstall it.\n\nTerms of use and privacy policy were updated on September 30, 2018.</string>
+    <string name="get_full_version_title">Get full version</string>
+    <string name="get_more_operations_buttonCancel">Cancel</string>
+    <string name="get_more_operations_buttonPay">Pay</string>
+    <string name="get_more_operations_pay">Pay</string>
+    <string name="get_more_operations_message">You are using preview version. To add more items click on the button</string>
+    <string name="toast_last_room">You can not delete last room</string>
+    <string name="toast_exist_name">This name already exists</string>
+    <string name="addButtonSpinner">Add new</string>
+    <string name="fileprovider" translatable="false">com.slonigiraf.homoksafe.fileprovider</string>
+    <string name="intent_name_operation" translatable="false">nameOperation</string>
+</resources>
